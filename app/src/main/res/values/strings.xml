@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="gil_aldana">Gilberto Aldana</string>
+    <string name="st_0">0</string>
+    <string name="st_1">1</string>
+    <string name="st_2">2</string>
+    <string name="st_3">3</string>
+    <string name="st_4">4</string>
+    <string name="st_5">5</string>
+    <string name="st_6">6</string>
+    <string name="st_7">7</string>
+    <string name="st_8">8</string>
+    <string name="st_9">9</string>
+    <string name="st_c">C</string>
+    <string name="st_igual">=</string>
+    <string name="st_sum">+</string>
+    <string name="st_res">-</string>
+    <string name="st_div">/</string>
+    <string name="st_mul">*</string>
+</resources>
